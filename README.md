@@ -1,2 +1,2 @@
 # SNMP
-pythhon using pysnmp 
+python using pysnmp 
